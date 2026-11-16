@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://justuseflint.github.io/davidsons-greenhouse/sitemap.xml

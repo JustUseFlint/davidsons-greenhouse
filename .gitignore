@@ -1,0 +1,7 @@
+node_modules/
+*.orig.*
+/ref/
+/davidsons-greenhouse-ref/
+.DS_Store
+__pycache__/
+shots/
